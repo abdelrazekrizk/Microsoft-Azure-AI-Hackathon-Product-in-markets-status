@@ -13,4 +13,5 @@ Predict the end of the product's expiration depend on its Consumption rate
 With Excel formula and automated machine learning experiments in the Azure portal
 
 data source
-[link](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory)![Alt text]
+
+[National Drug Code Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory)![Alt text]

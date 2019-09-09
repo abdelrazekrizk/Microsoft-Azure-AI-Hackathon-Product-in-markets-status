@@ -4,10 +4,13 @@
 
 Predict the end of Expired medicines and how to avoid their financial losses
 
-## What it does
+**_What it does_**
 
 Predict the end of the product's expiration depend on its Consumption rate
 
-## How I built it
+**_How I built it_**
 
-With Excel formula
+With Excel formula and automated machine learning experiments in the Azure portal
+
+data source
+[link](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory)![Alt text]

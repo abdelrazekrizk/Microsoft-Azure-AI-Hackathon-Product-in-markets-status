@@ -8,7 +8,7 @@ Predict the end of Expired medicines and how to avoid their financial losses
 
 Predict the end of the product's expiration depend on its Consumption rate
 
-#How I built it
+# How I built it
 
 With Excel formula and automated machine learning experiments in the Azure portal
 

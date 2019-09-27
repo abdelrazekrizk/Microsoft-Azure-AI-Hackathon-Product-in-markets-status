@@ -16,6 +16,6 @@ data source
 
 [National Drug Code Directory](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory)
 
-##**_License Summary_**
+##_License Summary_
 
 See the LICENSE file
